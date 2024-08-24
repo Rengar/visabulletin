@@ -1,0 +1,8 @@
+{
+  "current_month": 9,
+  "current_year": 2025,
+  "telegram_chat_ids": [
+    "@yourChannel"
+  ],
+  "telegram_bot_key": "YOUR_TELEGRAM_BOT_KEY"
+}
